@@ -1,6 +1,6 @@
 # Calendar
-### swiftful thinking 유튜버의 "todolist" ,  kavsoft 유튜버의 "elegant calendar"을 합쳤습니다
-* 달력과 일정을 같이 보여주는 앱을 만들고자 하였습니다.
+### 달력과 일정을 같이 보여주는 앱을 만들고자 하였습니다.
+
 
 ### 남은 과제
 * 오늘 날짜 나타내기
